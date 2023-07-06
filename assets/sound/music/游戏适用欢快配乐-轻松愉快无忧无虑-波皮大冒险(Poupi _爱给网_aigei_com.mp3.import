@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/游戏适用欢快配乐-轻松愉快无忧无虑-波皮大冒险(Poupi _爱给网_aigei_com.mp3-406f29ad5011d0cb9ed8344307eb1db3.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/游戏适用欢快配乐-轻松愉快无忧无虑-波皮大冒险(Poupi _爱给网_aigei_com.mp3"
+dest_files=[ "res://.import/游戏适用欢快配乐-轻松愉快无忧无虑-波皮大冒险(Poupi _爱给网_aigei_com.mp3-406f29ad5011d0cb9ed8344307eb1db3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
